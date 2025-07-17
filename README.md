@@ -1,3 +1,5 @@
+![Visitantes](https://komarev.com/ghpvc/?username=leonardoloss&label=Visualizações&color=0e75b6&style=flat)
+
 # 📍 CEP Search
 
 Aplicação Java simples para busca de endereços a partir de um CEP, utilizando a API pública [ViaCEP](https://viacep.com.br/). A aplicação consulta os dados do CEP fornecido, exibe o endereço e salva as informações em um arquivo `.json`.
